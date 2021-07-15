@@ -1,8 +1,10 @@
 **ILDAR  BATTALOV** 
 ===
-![Foto] (https://ok.ru/profile/722173762/pphotos/897665934914 "Ildar Battalov")
-Email:  battalovia@gmail.com
-Mobile: +7 903 380 3372
+![Image](FOTO.JPG "Ildar Battalov")
+
+**Email:**  battalovia@gmail.com
+
+**Mobile:** +7 903 380 3372
 
 Objective
 ---
